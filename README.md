@@ -11,3 +11,7 @@ Combines <h4>physics + machine learning </h4>.
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-orange.svg)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue.svg)
+
+## 📊 Results
+
+![Trajectory Result](plot_fig.png)
