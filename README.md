@@ -14,4 +14,4 @@ Combines <h4>physics + machine learning </h4>.
 
 ## 📊 Results
 
-![Trajectory Result](plot_fig.png)
+![Trajectory Result](plot.png)
